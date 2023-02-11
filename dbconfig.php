@@ -2,7 +2,7 @@
 $DBhost = "localhost";
 $DBuser = "root";
 $DBpassword ="";
-$DBname="indonetsource1";
+$DBname="indonetsource";
 
 $conn = mysqli_connect($DBhost, $DBuser, $DBpassword, $DBname); 
 
